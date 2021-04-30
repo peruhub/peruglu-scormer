@@ -1,6 +1,6 @@
-# Perugluglu SCORMer
+# Peruhub SCORMer
 
-## Perugluglu Interactive
+## Peruhub Interactive
 São Paulo, Brasil
 
 ### Author
@@ -28,5 +28,3 @@ Basically you have an `index.html` that points to three files:
 After that, you have an `imsmanifest.xml` file that points to necessary stuff that a SCORM-ready LMS used to recognize your project as a SCORM lesson.  `imsmanifest.xml` **NEEDS** to be in the root folder. I used the same rule we use here and just left `index.html` right beside it in the root folder, though I know you can move it to a subfolder and point to it on the XML.
  
 I have followed some basic structures we generally use in our projects, like using a `data.js` file to store data used throughout our games, and separating `scorm.js` and `script.js`. You don't *have* to follow these rules and come up with your own structure. I also left files on some 'basic' folders, you can also move them around, just don't forget to update file locations on the HTML file.
-
-> **Again:** I am really a newbie starting out on web/game development and came up with this idea when we needed to implement SCORM for our  clients here at Perugluglu.
