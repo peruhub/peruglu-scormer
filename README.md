@@ -1,11 +1,8 @@
 # Peruhub SCORMer
 
-## Peruhub Interactive
-São Paulo, Brasil
-
 ### Author
 André Monello
-
+São Paulo, Brasil
 andre.monello [at] gmail.com
 
 
